@@ -1,0 +1,33 @@
+{
+    "username_check": {
+        "username": "janish",
+        "found_on": [
+            {
+                "site": "GitHub",
+                "url": "https://github.com/janish",
+                "status": "found"
+            },
+            {
+                "site": "Twitter",
+                "url": "https://twitter.com/janish",
+                "status": "found"
+            },
+            {
+                "site": "Instagram",
+                "url": "https://www.instagram.com/janish",
+                "status": "found"
+            },
+            {
+                "site": "Reddit",
+                "url": "https://www.reddit.com/user/janish",
+                "status": "found"
+            },
+            {
+                "site": "TikTok",
+                "url": "https://www.tiktok.com/@janish",
+                "status": "error",
+                "details": "HTTPSConnectionPool(host='www.tiktok.com', port=443): Max retries exceeded with url: /@janish (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024173299310>, 'Connection to www.tiktok.com timed out. (connect timeout=5)'))"
+            }
+        ]
+    }
+}

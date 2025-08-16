@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+exifread
+Pillow
+PyPDF2
+python-docx
